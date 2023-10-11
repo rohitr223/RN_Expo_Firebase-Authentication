@@ -1,6 +1,9 @@
 // ---- accessing the firebase backend ----
 import axios from "axios";
 
+// for more details search "firebase rest api"
+// or visit : https://firebase.google.com/docs/reference/rest/auth#section-create-email-password
+
 // add your firebase key here
 // Go to your firebase project and click on "Project Settings" and finally copy the "Web Api Key"
 const API_KEY = "firebase-web-api-key";
